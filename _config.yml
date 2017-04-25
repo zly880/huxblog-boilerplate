@@ -1,11 +1,11 @@
 # Site settings
 title: MY Blog
-SEOTitle: 我是一个小菜鸡
+SEOTitle: 飞的更高
 header-img: img/home-bg.jpg
 email: zly_880@163.com
 description: ""
 keyword: ""
-           # your host, for absolute URL
+url: "https://zly880.github.io/"        # your host, for absolute URL
 baseurl: "/zly880.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
